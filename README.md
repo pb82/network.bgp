@@ -1,4 +1,4 @@
-# Network BGP Validated Content
+# Network BGP Validated Contents
 
 This repository contains the `network.bgp` Ansible Collections.
 
